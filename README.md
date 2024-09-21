@@ -41,6 +41,7 @@ The trained model was tested on two videos to demonstrate its real-time detectio
 ### Test 2: Video Detection
 - Input: A different video of a POV of walking through a park with Road Signs .
 - Output: ![Demo GIF](C:\Users\hp\Desktop\TestonDEMO2.gif)
+- <img src="C:\Users\hp\Desktop\TestonDEMO2.gif" alt="Alt text">
 
 ### Test 3: Picture Detection
 - Input: Test picture of a traffic light (Red or Green) .
