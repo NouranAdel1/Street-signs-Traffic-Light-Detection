@@ -36,18 +36,23 @@ The trained model was tested on two videos to demonstrate its real-time detectio
 
 ### Test 1: Video Detection
 - Input: A video of a car moving through a road with Road Signs.
-- Output: 
-
+- Output:
+<center>
+  <img src="https://github.com/NouranAdel1/Street-signs-Traffic-Light-Detection/blob/main/Test_Demo1.gif" width="300">
+</center>
 ### Test 2: Video Detection
 - Input: A different video of a POV of walking through a park with Road Signs .
-- Output: 
+- Output:
+<center>
+  <img src="https://github.com/NouranAdel1/Street-signs-Traffic-Light-Detection/blob/main/Test_Demo2.gif" width="300">
+</center>
 
 ### Test 3: Picture Detection
 - Input: Test picture of a traffic light (Red or Green) .
 - Output:
-![Traffic light](https://github.com/user-attachments/assets/ded78800-3995-4689-a3a7-f03cdf6bd1fd)
-
-
+<center>
+  ![Traffic light](https://github.com/user-attachments/assets/ded78800-3995-4689-a3a7-f03cdf6bd1fd){: width="300"}
+</center>
 
 ## Conclusion
 The YOLOv5 model, trained with the Roboflow dataset, now demonstrates high accuracy in detecting road signs and traffic lights. This makes it suitable for use in real-world applications like autonomous driving, traffic monitoring, and road safety systems.
