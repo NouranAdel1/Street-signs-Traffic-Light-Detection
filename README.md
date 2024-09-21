@@ -36,10 +36,11 @@ The trained model was tested on two videos to demonstrate its real-time detectio
 
 ### Test 1: Video Detection
 - Input: A video of a car moving through a road with Road Signs.
-- Output:
+- Output: 
 <center>
   <img src="https://github.com/NouranAdel1/Street-signs-Traffic-Light-Detection/blob/main/Test_Demo1.gif" width="300">
 </center>
+
 ### Test 2: Video Detection
 - Input: A different video of a POV of walking through a park with Road Signs .
 - Output:
