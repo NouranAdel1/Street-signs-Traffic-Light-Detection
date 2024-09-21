@@ -36,19 +36,17 @@ The trained model was tested on two videos to demonstrate its real-time detectio
 
 ### Test 1: Video Detection
 - Input: A video of a car moving through a road with Road Signs.
-- Output: ![Demo GIF](C:\Users\hp\Desktop\TestDemo1.gif)
+- Output: 
 
 ### Test 2: Video Detection
 - Input: A different video of a POV of walking through a park with Road Signs .
-- Output: ![Demo GIF](C:\Users\hp\Desktop\TestonDEMO2.gif)
-- <img src="C:\Users\hp\Desktop\TestonDEMO2.gif" alt="Alt text">
+- Output: 
 
 ### Test 3: Picture Detection
 - Input: Test picture of a traffic light (Red or Green) .
 - Output:
-  <div align="center">
-  <img src=""C:\Users\hp\Desktop\Traffic light.jpg"" alt="Image description" width="400" />
-</div>
+![Traffic light](https://github.com/user-attachments/assets/ded78800-3995-4689-a3a7-f03cdf6bd1fd)
+
 
 
 ## Conclusion
