@@ -52,7 +52,7 @@ The trained model was tested on two videos to demonstrate its real-time detectio
 - Input: Test picture of a traffic light (Red or Green) .
 - Output:
 <center>
-  ![Traffic light](https://github.com/user-attachments/assets/ded78800-3995-4689-a3a7-f03cdf6bd1fd){: width="300"}
+  <img src="https://github.com/NouranAdel1/Street-signs-Traffic-Light-Detection/blob/main/TrafficLight_Picture_test.jpg" width="300">
 </center>
 
 ## Conclusion
